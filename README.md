@@ -87,6 +87,9 @@ Track spending behavior across various occupations to understand financial prior
 ### Avg Spending by Payment Mode: 
 Measure spending across different payment modes to determine the most preferred methods for transactions.
 
+![demographic_analysis_flow](https://github.com/user-attachments/assets/479a01e2-47ea-427d-adb4-88198c67e966)
+
+
 Key Performance Indicators (KPIs):
 
 #### Avg Income Utilization (AIU): 
@@ -121,6 +124,10 @@ Deep dive into the relationship between cities and occupations to reveal income 
 Explore how income utilization differs based on city-occupation combinations, providing localized insights.
 
 ## Functionality
+
+![income_utilization_flow](https://github.com/user-attachments/assets/2da0678d-ec0a-433f-bf03-72237e607422)
+
+
 ### Interactive Filters: 
 Filter data based on demographics, payment modes, and categories to explore specific trends and behavior.
 
