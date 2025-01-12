@@ -4,6 +4,8 @@
 
 This Power BI dashboard provides a comprehensive overview of key business areas, including Finance, Sales, Market, and Supply Chain. The interactive dashboard is designed to help stakeholders make data-driven decisions by offering real-time insights into financial performance, sales trends, market dynamics, and supply chain efficiency.
 
+
+
 ## Key Features
 
 ![dfb](https://github.com/user-attachments/assets/84d11659-b6c3-4deb-bbcd-91c30ea48705)
@@ -65,6 +67,9 @@ This BI dashboard is a powerful tool for businesses looking to gain a deeper und
 
 ## Overview
 The Banking Start BI Dashboard in Tableau provides a comprehensive analysis of banking and customer spending behavior across various demographic dimensions. This dashboard is designed to provide actionable insights into customer income utilization, spending patterns, and financial behaviors, helping banks optimize their services and target specific customer segments effectively.
+
+![Screenshot (17)](https://github.com/user-attachments/assets/41fbd980-95ae-489a-820e-eae054278e4d)
+
 
 ## Key Features
 ### Demographic Dimensions:
@@ -136,9 +141,13 @@ Understand spending behavior, income utilization, and financial preferences to e
 Make informed decisions based on actionable insights that drive business strategy and improve service offerings.
 
 ## Getting Started
+
+![Screenshot (18)](https://github.com/user-attachments/assets/0f9e12c3-6d59-46a1-9bdf-260d42799491)
+
 Open the Tableau dashboard file.
 Use the available filters to explore the data across different demographic dimensions.
 Leverage the visualizations and KPIs to uncover trends and patterns in customer behavior.
 
 ## Conclusion
 The Banking Start BI Dashboard in Tableau is a powerful tool for banks to analyze customer spending and income utilization. It provides a deep understanding of customer segments, helping businesses improve their strategies and optimize financial services based on real-time data.
+![Screenshot (19)](https://github.com/user-attachments/assets/c5821405-4bc3-4222-bbe4-cfc5d2982783)
