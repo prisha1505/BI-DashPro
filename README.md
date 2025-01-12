@@ -21,6 +21,9 @@ Gain insights into market trends, customer behavior, and competitor performance.
 ### Supply Chain View: 
 Track the efficiency of the supply chain with real-time data on inventory levels, order fulfillment, and supplier performance. Identify bottlenecks and optimize supply chain operations.
 
+![des](https://github.com/user-attachments/assets/74315b00-49fe-4c38-ba6f-c66daf3cb48e)
+
+
 ## Functionality
 
 ### Interactive Filters: 
@@ -31,6 +34,9 @@ Engaging charts, graphs, and tables display data in an easy-to-understand format
 
 ### Real-Time Updates: 
 The dashboard automatically updates with the latest data to provide real-time insights.
+
+![prc](https://github.com/user-attachments/assets/6e045da4-c784-41c9-a8f1-8abbc5704a51)
+
 
 ## Benefits
 
