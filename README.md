@@ -6,6 +6,9 @@ This Power BI dashboard provides a comprehensive overview of key business areas,
 
 ## Key Features
 
+![dfb](https://github.com/user-attachments/assets/84d11659-b6c3-4deb-bbcd-91c30ea48705)
+
+
 ### Finance View: 
 Visualize financial performance, including revenue, expenses, and profit margins. Track key financial metrics over time to monitor business growth and financial health.
 
