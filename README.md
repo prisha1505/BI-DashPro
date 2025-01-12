@@ -142,7 +142,9 @@ Make informed decisions based on actionable insights that drive business strateg
 
 ## Getting Started
 
-![Screenshot (18)](https://github.com/user-attachments/assets/0f9e12c3-6d59-46a1-9bdf-260d42799491)
+![Screenshot (20)](https://github.com/user-attachments/assets/2645bc3c-288a-4614-bbbf-29d603d335b4)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/92f5c398-e559-4790-bf10-ac63fff79a97)
 
 Open the Tableau dashboard file.
 Use the available filters to explore the data across different demographic dimensions.
